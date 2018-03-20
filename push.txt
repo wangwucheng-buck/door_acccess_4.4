@@ -1,2 +1,5 @@
+本地提交后，第一次推送需要：
 git remote add origin https://github.com/wangwucheng-buck/door_acccess_4.4.git
+git push -u origin master
+以后推送，本地提交后，直接：
 git push -u origin master
