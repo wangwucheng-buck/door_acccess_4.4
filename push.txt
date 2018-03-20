@@ -1,0 +1,2 @@
+git remote add origin https://github.com/wangwucheng-buck/door_acccess_4.4.git
+git push -u origin master
